@@ -1,12 +1,12 @@
 module.exports = {
-  "extends": "airbnb-base",
-  "globals": {
+  extends: "airbnb-base",
+  globals: {
     $: true,
-    "window": true,
-    "document": true
+    window: true,
+    document: true
   },
-  "plugins": ["import", "html"],
-  "rules": {
+  plugins: ["import", "html"],
+  rules: {
     "no-console": "off",
     "import/newline-after-import": "off",
     "global-require": "off",
@@ -20,10 +20,11 @@ module.exports = {
     "prefer-destructuring": "off",
     "no-alert": "off",
     "func-names": "off",
+    "eol-last": "off",
     "import/no-extraneous-dependencies": [
       "error",
       {
-        "devDependencies": true
+        devDependencies: true
       }
     ],
     "eslint-disable-next-line": 0,
