@@ -21,6 +21,7 @@ module.exports = {
     "no-alert": "off",
     "func-names": "off",
     "eol-last": "off",
+    "no-useless-return": "off",
     "import/no-extraneous-dependencies": [
       "error",
       {
