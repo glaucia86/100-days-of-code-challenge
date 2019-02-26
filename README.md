@@ -27,7 +27,7 @@ Vocês poderão acompanhar os projetos desenvolvidos aqui, nesse **[README.md](h
 
 Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do **#100DaysOfCode**
 
-- [#Day-01]()
+- [#Day-01: Desenvolvimento de Bateria via Teclado]()
 - [#Day-02]()
 - [#Day-03]()
 - [#Day-04]()
