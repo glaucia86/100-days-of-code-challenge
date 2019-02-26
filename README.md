@@ -27,11 +27,13 @@ Vocês poderão acompanhar os projetos desenvolvidos aqui, nesse **[README.md](h
 
 Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do **#100DaysOfCode**
 
-- [Em Breve]()
-- [Em Breve]()
-- [Em Breve]()
-- [Em Breve]()
-- [Em Breve]()
+- [#Day-01]()
+- [#Day-02]()
+- [#Day-03]()
+- [#Day-04]()
+- [#Day-05]()
+- [#Day-06]()
+- [#Day-07]()
 
 ## Dúvidas?! 🚩
 
