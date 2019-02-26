@@ -1,0 +1,39 @@
+{
+  "name": "100-days-of-code-challenge",
+  "version": "1.0.0",
+  "description": "Repositório responsável por tratar do Desafio do #100DaysOfCode criado pelo Desenvolvedor **[Alexander Kallaway](https://twitter.com/ka11away)**. \r A intenção desse desafio é justamente você programar 1 hora todos os dias. \r Por que eu resolvi fazer esse desafio? Com a intenção de ajudar a todos aqui, na Comunidade Técnica Brasileira, a aderirem ao Desafio.\r As regras já estão estabelecidas **[AQUI](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/LEIAME.md)**",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glaucia86/100-days-of-code-challenge.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "html",
+    "css",
+    "100daysofcode"
+  ],
+  "author": "Glaucia Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/100-days-of-code-challenge/issues"
+  },
+  "homepage": "https://github.com/glaucia86/100-days-of-code-challenge#readme",
+  "dependencies": {
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-plugin-html": "^5.0.3",
+    "prettier": "^1.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.4"
+  }
+}
