@@ -7,7 +7,7 @@ install:
   - npm install
 
 script:
-  - npm run prepush
+  - npm run lint
 
 cache:
   directories:
