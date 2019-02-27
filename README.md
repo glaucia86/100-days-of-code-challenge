@@ -27,14 +27,20 @@ Vocês poderão acompanhar os projetos desenvolvidos aqui, nesse **[README.md](h
 
 Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do **#100DaysOfCode**
 
-- [#Day-01: Kit de Bateria]()
-  - [Código Desenvolvido](http://bit.ly/2Swm3xLs)
-- [#Day-02]()
-- [#Day-03]()
-- [#Day-04]()
-- [#Day-05]()
-- [#Day-06]()
-- [#Day-07]()
+- **[#Day-01: Kit de Bateria](http://bit.ly/2BTI1oT)**
+  - **[Código Desenvolvido](http://bit.ly/2Swm3xLs)**
+- **[#Day-02]()**
+  - **[Código Desenvolvido]()**
+- **[#Day-03]()**
+  - **[Código Desenvolvido]()**
+- **[#Day-04]()**
+  - **[Código Desenvolvido]()**
+- **[#Day-05]()**
+  - **[Código Desenvolvido]()**
+- **[#Day-06]()**
+  - **[Código Desenvolvido]()**
+- **[#Day-07]()**
+  - **[Código Desenvolvido]()**
 
 ## Dúvidas?! 🚩
 
