@@ -16,12 +16,11 @@ Vocês poderão acompanhar os projetos desenvolvidos aqui, nesse **[README.md](h
 
 ## Recursos Utilizados durante o Desenvolvimento 🔥
 
-- VS Code
-- Node.js
-- Npm
-- JavaScript
-- HTML
-- CSS
+- **VsCode**
+- **Node.js**
+- **JavaScript**
+- **HTML**
+- **CSS**
 
 ## Lista de Projetos Desenvolvidos 🚀
 
