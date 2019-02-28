@@ -43,5 +43,7 @@ Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do 
 
 ## Dúvidas?! 🚩
 
-Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente bastam criar uma **[ISSUE](https://github.com/glaucia86/100-days-of-code-challenge/issues)** no repositório que estarei respondendo a todos vocês!! ❤️❤️ ❤️😊
+Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente bastam criar uma **[ISSUE](https://github.com/glaucia86/100-days-of-code-challenge/issues)** no repositório que estarei respondendo a todos vocês!! ❤️❤️❤️😊
+
+**(documentação em desenvolvimento)**
 
