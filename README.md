@@ -28,7 +28,7 @@ Abaixo segue uma lista de projetos que estou desenvolvendo durante o Desafio do 
 
 - **[#Day-01: Kit de Bateria](http://bit.ly/2BTI1oT)**
   - **[Código Desenvolvido](http://bit.ly/2Swm3xLs)**
-- **[#Day-02]()**
+- **[#Day-02: Em Breve]()**
   - **[Código Desenvolvido]()**
 - **[#Day-03]()**
   - **[Código Desenvolvido]()**
